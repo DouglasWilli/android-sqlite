@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">example-sqlite</string>
+
+    <!-- String View Create -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="create">Create</string>
+
+    <!-- Strings Message Erro and Success -->
+    <string name="erro">Error save data</string>
+    <string name="success">Savo data successfully</string>
+</resources>

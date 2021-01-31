@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exemplo SQLite</string>
+
+    <!-- String View Create -->
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="create">Criar</string>
+
+    <!-- Strings Message Erro and Success -->
+    <string name="erro">Error salvar os dados</string>
+    <string name="success">Dados salvo com sucesso</string>
+</resources>
